@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ```
 
 
-4 Create a .env file and add your API key for ChatGroq:
+4 Create a .env file and add your API key for [ChatGroq](https://console.groq.com/keys):
 
 ```
 GROQ_API_KEY=your_api_key_here
