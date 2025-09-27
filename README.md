@@ -21,7 +21,8 @@ Live Project link: https://huggingface.co/spaces/pymit/Soil-Analysis
 
 ## **Installation**
 
-1. Clone the repository:
+
+1 Clone the repository:
 ```bash
 git clone https://github.com/mitanshhh/Soil-Analysis.git
 ```
